@@ -6,8 +6,13 @@ public class Addition {
         int b = 20;
         int c=30;
 
+
         int sum = a + b + c;
 
+        System.out.println("Addition = " + sum);
+        System.out.println("Addition = " + sum);
+        System.out.println("Addition = " + sum);
+        System.out.println("Addition = " + sum);
         System.out.println("Addition = " + sum);
     }
 }
