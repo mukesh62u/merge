@@ -8,6 +8,12 @@ public class Addition {
         int sum = a * b;
 
         System.out.println("Addition = " + sum);
+        System.out.println("Addition = " + sum);
+        System.out.println("Addition = " + sum);
+        System.out.println("Addition = " + sum);
+        
+        
+
     }
 }
 
